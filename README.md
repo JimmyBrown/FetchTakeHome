@@ -1,10 +1,10 @@
-## FetchRewards Coding Exercise
+## FetchRewards Coding Exercise ##
 
-Built using Xcode 12.4 and the latest version of Swift 5. 
+ - [ ] Built using Xcode 12.4 and the latest version of Swift 5. 
 
 **Dependencies**
 
-No dependencies were used. Everything is native Swift.
+ - [ ] No dependencies were used. Everything is native Swift.
 
 **Notes**
 
